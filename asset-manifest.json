@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Moptro-Suhas/static/css/main.a5fe0ece.css",
+    "main.js": "/Moptro-Suhas/static/js/main.a95c466d.js",
+    "static/js/453.c78df6ed.chunk.js": "/Moptro-Suhas/static/js/453.c78df6ed.chunk.js",
+    "index.html": "/Moptro-Suhas/index.html",
+    "main.a5fe0ece.css.map": "/Moptro-Suhas/static/css/main.a5fe0ece.css.map",
+    "main.a95c466d.js.map": "/Moptro-Suhas/static/js/main.a95c466d.js.map",
+    "453.c78df6ed.chunk.js.map": "/Moptro-Suhas/static/js/453.c78df6ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5fe0ece.css",
+    "static/js/main.a95c466d.js"
+  ]
+}
