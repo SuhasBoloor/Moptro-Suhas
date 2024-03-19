@@ -1,4 +1,3 @@
-import { Alert } from 'flowbite-react';
 import React , { useState } from 'react';
 
 function Employee(props) {
@@ -13,7 +12,6 @@ function Employee(props) {
             if(search === element.name){
                 alert("Employee is available")
             }
-            
         });
     }
 
