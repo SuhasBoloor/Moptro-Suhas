@@ -1,0 +1,59 @@
+[
+    {
+        "emp_id": 1, 
+        "name": "Arjun",
+        "dob": "16-11-2000", 
+        "role": "Software Engineer",
+        "password": "password@123"
+
+},
+    {
+        "emp_id": 2, 
+        "name": "Mahesh", 
+        "dob": "15-01-2000", 
+        "role": "Web Developer",
+        "password": "password@123"
+},
+    {
+        "emp_id": 3, 
+        "name": "Dinesh", 
+        "dob": "12-10-1997", 
+        "role": "Technical Writer",
+        "password": "password@123"
+    },
+    {
+        "emp_id": 4, 
+        "name": "Sukumar", 
+        "dob": "06-11-1999", 
+        "role": "Web Developer",
+        "password": "password@123"
+    },
+    {
+        "emp_id": 5, 
+        "name": "Aamer", 
+        "dob": "24-02-2000", 
+        "role": "Test Engineer",
+        "password": "password@123"
+    },
+    {
+        "emp_id": 6, 
+        "name": "Shruthan", 
+        "dob": "09-09-2002", 
+        "role": "Implementation Engineer",
+        "password": "password@123"
+    },
+    {
+        "emp_id": 7, 
+        "name": "Chaithra", 
+        "dob": "14-02-1992", 
+        "role": "System Engineer",
+        "password": "password@123"
+    },
+    {
+        "emp_id": 8, 
+        "name": "Manoj", 
+        "dob": "02-11-2002", 
+        "role": "Web Developer",
+        "password": "password@123"
+    }
+]
