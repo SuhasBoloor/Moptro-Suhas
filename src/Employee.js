@@ -8,7 +8,7 @@ function Employee(props) {
     }
 
     const handleSearch = () => {
-        props.employees.map(element => {
+        props.employees.forEach(element => {
             if(search === element.name){
                 alert("Employee is available")
             }

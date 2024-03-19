@@ -1,6 +1,4 @@
 import React from 'react'
-// import {ProgressBar} from 'react-bootstrap/ProgressBar';
-import { Progress } from 'flowbite-react';
 
 function Home() {
   const productivity = [["Monday", 4], ["Tuesday", 92], ["Wednesday", 122], ["Thursday", 93], ["Friday", 89], ["Saturday", 98]];

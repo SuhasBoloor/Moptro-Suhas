@@ -150,11 +150,13 @@ margin: 0;
 #search{
   width: 12px;
   height: 12px;
+  cursor: pointer;
 }
 
 #user, #home {
   width: 25px;
   height: 25px;
+  cursor: pointer;
 }
 
 .footer{
