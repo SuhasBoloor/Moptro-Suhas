@@ -80,7 +80,7 @@ function Login(props) {
         <input type="password" placeholder="Password" id="login-password" onChange={handlePwd} required />
         <button type="submit" id='loginBtn'>Login</button>
       </form>
-      <a href="#">Forgot Password</a>
+      <a>Forgot Password</a>
     </div>
   );
 }
